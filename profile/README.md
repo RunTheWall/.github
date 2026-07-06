@@ -8,6 +8,7 @@ Run The Wall is a product company first. We design and make physical goods, writ
 
 - 👕 **[.blank t-shirts](https://runthewall.au/pages/blank-t-shirt)** — premium 200GSM+ cotton tees. Business vs casual: the only t-shirt that holds up to any style
 - 🧱 **Spotter Mat Pro** — landing and training mat for gym owners and serious home gyms
+- 🤸 **Trampoline hardware** — tramp springs, trampoline beds and modular trampoline walls (padded and unpadded) for gyms and training facilities
 - 🛒 **[The shop](https://runthewall.au/collections)** — gift vouchers, multi-visit passes and more
 
 ## What we build
