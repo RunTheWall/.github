@@ -26,6 +26,9 @@ Most of the rest of our code is private (booking pipelines, marketing automation
 
 - 🌐 [runthewall.au](https://runthewall.au)
 - 📸 Instagram — [@runthewall.au](https://www.instagram.com/runthewall.au/)
+- 👍 Facebook — [RunTheWall.au](https://www.facebook.com/RunTheWall.au)
+- 💼 LinkedIn — [Run The Wall](https://www.linkedin.com/company/runthewall)
+- ▶️ YouTube — [Run The Wall](https://www.youtube.com/channel/UCisGD4GKDvf8cKwjtS5oFAA)
 - 📍 Brookvale, NSW 2100, Australia
 
 *Run The Wall — made in Brookvale, home of the wall running gym on Sydney's Northern Beaches.*
